@@ -1,0 +1,30 @@
+.countdownRateBtn{
+    border: 5px solid #1C768F;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    font-size: 24px;
+    color: #FBF3F2;
+    background: #032539;
+    text-transform: uppercase;
+    margin: 0 9px;
+}
+
+.countdownRateBtn:hover{
+    border: 5px solid #FA991C;
+    color: #032539;
+    background: #FBF3F2;
+    cursor: pointer;
+}
+
+.activeCountdownRateBtn{
+    border: 5px solid #FA991C;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    font-size: 24px;
+    color: #032539;
+    background: #FBF3F2;
+    text-transform: uppercase;
+    margin: 0 9px;
+}

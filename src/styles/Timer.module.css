@@ -1,0 +1,21 @@
+.timer{
+    width: 700px;
+    text-align: center;
+    font-size: 256px;
+    color: #FBF3F2;
+}
+
+.warning {
+    color: #FA991C;
+}
+
+.blinking {
+    animation: opacity 1s linear infinite;
+    color: #FA991C;
+}
+
+@keyframes opacity {
+    50% {
+        opacity: 0;
+    }
+}

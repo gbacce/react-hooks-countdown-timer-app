@@ -1,0 +1,36 @@
+.deploymentSchedule {
+    display: flex;
+    flex-direction: column;
+    color: #FBF3F2;
+    padding: 20px;
+    border: 2px solid #FBF3F2;
+    border-radius: 25px;
+    width: 600px;
+}
+
+.scheduleHeader {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.scheduleBody {
+    padding: 20px;
+}
+
+.officeItem {
+    display: flex;
+    flex-direction: row;
+    padding: 7px 40px;
+}
+
+.city {
+    flex-basis: 30%;
+    text-align: left;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.deploymentTime {
+    text-align: left;
+    flex-grow: 70%;
+}

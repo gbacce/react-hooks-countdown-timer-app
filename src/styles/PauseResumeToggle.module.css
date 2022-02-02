@@ -1,0 +1,11 @@
+.pauseResumeToggle:hover {
+    cursor: not-allowed;
+}
+
+.activePauseResumeToggle:hover {
+    cursor: pointer;
+}
+
+.icon {
+    height:100px;
+}
